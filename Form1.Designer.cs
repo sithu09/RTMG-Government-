@@ -157,7 +157,7 @@
             this.BackColor = System.Drawing.SystemColors.ButtonFace;
             this.BackgroundImage = global::Projectm_I.Properties.Resources.meiktila;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(962, 520);
+            this.ClientSize = new System.Drawing.Size(1320, 735);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.label3);

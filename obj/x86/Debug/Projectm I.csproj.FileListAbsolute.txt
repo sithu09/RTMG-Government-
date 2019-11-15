@@ -105,3 +105,4 @@ C:\Users\sithulwin\documents\visual studio 2015\Projects\Projectm I\Projectm I\o
 C:\Users\sithulwin\documents\visual studio 2015\Projects\Projectm I\Projectm I\obj\x86\Debug\Projectm_I.General_Hospital.resources
 C:\Users\sithulwin\documents\visual studio 2015\Projects\Projectm I\Projectm I\obj\x86\Debug\Projectm_I.Municipal_Report.resources
 C:\Users\sithulwin\documents\visual studio 2015\Projects\Projectm I\Projectm I\obj\x86\Debug\Projectm_I.GHospital_Report.resources
+C:\Users\sithulwin\documents\visual studio 2015\Projects\Projectm I\Projectm I\obj\x86\Debug\Projectm_I.EPC_Report.resources

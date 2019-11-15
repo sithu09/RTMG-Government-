@@ -150,6 +150,9 @@
     <Compile Include="WebForm.Designer.cs">
       <DependentUpon>WebForm.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="EPC Report.resx">
+      <DependentUpon>EPC Report.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="EPC.resx">
       <DependentUpon>EPC.cs</DependentUpon>
     </EmbeddedResource>

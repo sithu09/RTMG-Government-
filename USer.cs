@@ -39,7 +39,6 @@ namespace Projectm_I
 
         private void button1_Click(object sender, EventArgs e)
         {
-
     browser = new ChromiumWebBrowser("http://192.168.56.1:3000/");
     this.Controls.Add(browser);
     browser.Dock = DockStyle.Fill;
