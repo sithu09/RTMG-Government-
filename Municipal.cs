@@ -73,6 +73,7 @@ namespace Projectm_I
         {
             Municipal_Report municipalR = new Municipal_Report();
             municipalR.Show();
+            this.Visible = false;
         }
     }
 }

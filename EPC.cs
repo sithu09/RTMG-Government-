@@ -53,6 +53,7 @@ namespace Projectm_I
         {
             EPC_Report epc= new EPC_Report();
             epc.Show();
+            this.Visible = false;
         }
     }
 }

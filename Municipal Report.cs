@@ -28,5 +28,19 @@ namespace Projectm_I
             this.Controls.Add(browser);
             browser.Dock = DockStyle.Fill;
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Municipal rmunicipal = new Municipal();
+            rmunicipal.Show();
+            this.Visible = false;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form1 rform1 = new Form1();
+            rform1.Show();
+            this.Visible = false;
+        }
     }
 }

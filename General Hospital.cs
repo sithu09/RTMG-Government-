@@ -53,6 +53,7 @@ namespace Projectm_I
         {
            GHospital_Report ghospital = new GHospital_Report();
             ghospital.Show();
+            this.Visible = false;
         }
     }
 }

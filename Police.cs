@@ -104,7 +104,7 @@ namespace Projectm_I
 
             USer user = new USer();
             user.Show();
-
+            this.Visible = false;
 
 
 
