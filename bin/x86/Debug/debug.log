@@ -1427,3 +1427,91 @@ import * as firebase from 'firebase/app';
 import 'firebase/<PACKAGE>';
 ", source: http://192.168.56.1:3000/static/js/0.chunk.js (75830)
 [1116/105917.264:INFO:CONSOLE(110205)] "Warning: Each child in a list should have a unique "key" prop.%s%s See https://fb.me/react-warning-keys for more information.%s", source: http://192.168.56.1:3000/static/js/0.chunk.js (110205)
+[1116/110736.542:INFO:CONSOLE(108763)] "%cDownload the React DevTools for a better development experience: https://fb.me/react-devtools", source: http://192.168.56.1:3000/static/js/0.chunk.js (108763)
+[1116/110736.585:INFO:CONSOLE(75830)] "
+It looks like you're using the development build of the Firebase JS SDK.
+When deploying Firebase apps to production, it is advisable to only import
+the individual SDK components you intend to use.
+
+For the module builds, these are available in the following manner
+(replace <PACKAGE> with the name of a component - i.e. auth, database, etc):
+
+CommonJS Modules:
+const firebase = require('firebase/app');
+require('firebase/<PACKAGE>');
+
+ES Modules:
+import firebase from 'firebase/app';
+import 'firebase/<PACKAGE>';
+
+Typescript:
+import * as firebase from 'firebase/app';
+import 'firebase/<PACKAGE>';
+", source: http://192.168.56.1:3000/static/js/0.chunk.js (75830)
+[1116/110738.551:INFO:CONSOLE(110205)] "Warning: Each child in a list should have a unique "key" prop.%s%s See https://fb.me/react-warning-keys for more information.%s", source: http://192.168.56.1:3000/static/js/0.chunk.js (110205)
+[1116/110948.756:INFO:CONSOLE(108763)] "%cDownload the React DevTools for a better development experience: https://fb.me/react-devtools", source: http://192.168.56.1:3000/static/js/0.chunk.js (108763)
+[1116/110948.816:INFO:CONSOLE(75830)] "
+It looks like you're using the development build of the Firebase JS SDK.
+When deploying Firebase apps to production, it is advisable to only import
+the individual SDK components you intend to use.
+
+For the module builds, these are available in the following manner
+(replace <PACKAGE> with the name of a component - i.e. auth, database, etc):
+
+CommonJS Modules:
+const firebase = require('firebase/app');
+require('firebase/<PACKAGE>');
+
+ES Modules:
+import firebase from 'firebase/app';
+import 'firebase/<PACKAGE>';
+
+Typescript:
+import * as firebase from 'firebase/app';
+import 'firebase/<PACKAGE>';
+", source: http://192.168.56.1:3000/static/js/0.chunk.js (75830)
+[1116/110950.641:INFO:CONSOLE(110205)] "Warning: Each child in a list should have a unique "key" prop.%s%s See https://fb.me/react-warning-keys for more information.%s", source: http://192.168.56.1:3000/static/js/0.chunk.js (110205)
+[1116/111142.914:INFO:CONSOLE(108763)] "%cDownload the React DevTools for a better development experience: https://fb.me/react-devtools", source: http://192.168.56.1:3000/static/js/0.chunk.js (108763)
+[1116/111142.989:INFO:CONSOLE(75830)] "
+It looks like you're using the development build of the Firebase JS SDK.
+When deploying Firebase apps to production, it is advisable to only import
+the individual SDK components you intend to use.
+
+For the module builds, these are available in the following manner
+(replace <PACKAGE> with the name of a component - i.e. auth, database, etc):
+
+CommonJS Modules:
+const firebase = require('firebase/app');
+require('firebase/<PACKAGE>');
+
+ES Modules:
+import firebase from 'firebase/app';
+import 'firebase/<PACKAGE>';
+
+Typescript:
+import * as firebase from 'firebase/app';
+import 'firebase/<PACKAGE>';
+", source: http://192.168.56.1:3000/static/js/0.chunk.js (75830)
+[1116/111144.406:INFO:CONSOLE(110205)] "Warning: Each child in a list should have a unique "key" prop.%s%s See https://fb.me/react-warning-keys for more information.%s", source: http://192.168.56.1:3000/static/js/0.chunk.js (110205)
+[1116/111353.084:INFO:CONSOLE(108763)] "%cDownload the React DevTools for a better development experience: https://fb.me/react-devtools", source: http://192.168.56.1:3000/static/js/0.chunk.js (108763)
+[1116/111353.141:INFO:CONSOLE(75830)] "
+It looks like you're using the development build of the Firebase JS SDK.
+When deploying Firebase apps to production, it is advisable to only import
+the individual SDK components you intend to use.
+
+For the module builds, these are available in the following manner
+(replace <PACKAGE> with the name of a component - i.e. auth, database, etc):
+
+CommonJS Modules:
+const firebase = require('firebase/app');
+require('firebase/<PACKAGE>');
+
+ES Modules:
+import firebase from 'firebase/app';
+import 'firebase/<PACKAGE>';
+
+Typescript:
+import * as firebase from 'firebase/app';
+import 'firebase/<PACKAGE>';
+", source: http://192.168.56.1:3000/static/js/0.chunk.js (75830)
+[1116/111354.530:INFO:CONSOLE(110205)] "Warning: Each child in a list should have a unique "key" prop.%s%s See https://fb.me/react-warning-keys for more information.%s", source: http://192.168.56.1:3000/static/js/0.chunk.js (110205)
